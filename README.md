@@ -25,7 +25,7 @@ Welcome to **My Big Basket**, an ecommerce platform built using Java web applica
 
 ## Getting Started
 
-1. **Clone the Repository**: git clone https://github.com/himanshu-2003-sahu/my-big-basket
+1. **Clone the Repository**: git clone https://github.com/himanshu-2003-sahu/Big-basket
 2. **Set Up Database**: Configure your database settings in the application.properties file.
 3. **Build and Run**: Use Maven to build and run the project locally.
 4. **Access the Application**: Navigate to `http://localhost:8080` in your web browser to access the application.
